@@ -1,1 +1,1 @@
-Simple Password Generator
+Simple CLI Password Generator
